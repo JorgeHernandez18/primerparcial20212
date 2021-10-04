@@ -1,12 +1,25 @@
+body{
+	background-color: #f5f5dc;
+}
+
 .logoBanco{
 	display: flex;
 	justify-content: center;	
+}
+
+.textoPrincipal{
+	text-align: center;
+
 }
 
 .comun{
 	text-decoration:none;
     color:inherit;
     font-size:14px;
+}
+
+.iniciarTransacción{
+	text-align: center;
 }
 
 .iniciarTransacción li {

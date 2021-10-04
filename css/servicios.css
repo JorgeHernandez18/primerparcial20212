@@ -1,3 +1,7 @@
+body{
+    background-color: #f5f5dc;
+}
+
 .logoBanco{
     display: flex;
     justify-content: flex-start;    
@@ -8,6 +12,7 @@
     font-size:14px;
 
 }
+
 
 .menuTransacciones li{
 	display:inline-block;
