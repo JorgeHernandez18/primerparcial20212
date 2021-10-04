@@ -1,0 +1,22 @@
+.comun{
+	text-decoration:none;
+    color:inherit;
+    font-size:14px;
+
+}
+
+.menuTransacciones li{
+	display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    border-bottom-left-radius:40px;
+}
+
+.menuTransacciones li:hover{
+	background-color:#fff;
+    color:#000;
+}
