@@ -1,7 +1,9 @@
 # Primer Parcial de Programación Web
 
-Deben basarse en el siguiente enlace de Mockup para crear el Frontend del ejercicio
-https://app.moqups.com/0za7IU83N3/view/page/af87021f5
+Primer parcial de programación web Realizado.
 
+Se enlazaron las páginas con los href correspondientes y se les dió estilo con CSS básico.
 
-El sitio se encuentra publicado en el enlace: https://carlosreneas.github.io/primerparcial20212/
+Reutilicé elementos de CSS para las páginas de procesando, valor y clave.
+
+El sitio se encuentra publicado en el enlace: https://jorgehernandez18.github.io/primerparcial20212/
