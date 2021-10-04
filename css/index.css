@@ -9,7 +9,7 @@ body{
 
 .textoPrincipal{
 	text-align: center;
-
+	font-size: larger;
 }
 
 .comun{
@@ -20,6 +20,10 @@ body{
 
 .iniciarTransacción{
 	text-align: center;
+}
+
+.continuarButton{
+	text-align: right;
 }
 
 .iniciarTransacción li {
@@ -34,6 +38,22 @@ body{
 }
 
 .iniciarTransacción li:hover{
+	background-color:#fff;
+    color:#000;
+}
+
+.continuarButton li {
+	display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    border-top-right-radius:40px;
+}
+
+.continuarButton li:hover{
 	background-color:#fff;
     color:#000;
 }

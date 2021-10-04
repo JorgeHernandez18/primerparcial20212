@@ -2,10 +2,25 @@ body{
     background-color: #f5f5dc;
 }
 
+.container{
+    column-count: 2;
+}
+
 .logoBanco{
     display: flex;
     justify-content: flex-start;    
 }
+
+.container .texto{
+    text-align:  center;
+}
+
+.texto{
+    
+    font-size: medium;
+    
+}
+
 .comun{
 	text-decoration:none;
     color:inherit;
@@ -15,6 +30,7 @@ body{
 
 
 .menuTransacciones li{
+
 	display:inline-block;
     width:10%;
     padding:5px 10px;
