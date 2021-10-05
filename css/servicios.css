@@ -31,7 +31,7 @@ body{
 
 }
 
-.menuTransacciones1 li{
+.menuTransacciones li{
 
 	display:inline-block;
     width:10%;
@@ -43,7 +43,7 @@ body{
     border-bottom-left-radius:40px;
 }
 
-.menuTransacciones1 li:hover{
+.menuTransacciones li:hover{
 	background-color:#fff;
     color:#000;
 }
