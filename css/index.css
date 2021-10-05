@@ -24,6 +24,7 @@ body{
 
 .continuarButton{
 	text-align: right;
+	padding-right: 400px;
 }
 
 .iniciarTransacción li {
@@ -34,7 +35,8 @@ body{
     border:1px solid #000;
     text-align:center;
     color:#fff;
-    border-bottom-left-radius:40px;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
 }
 
 .iniciarTransacción li:hover{
@@ -56,4 +58,23 @@ body{
 .continuarButton li:hover{
 	background-color:#fff;
     color:#000;
+}
+
+.area{
+	display: flex;
+	justify-content: center;
+}
+
+.normaltext{
+	text-align: center;
+	font-size: medium;
+	padding-top: 20px;
+}
+
+.texto{
+	font-size: larger;
+}
+
+.texto1{
+	font-size: medium;
 }
